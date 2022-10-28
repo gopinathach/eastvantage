@@ -1,4 +1,3 @@
-import { Tooltip } from "antd";
 import React, { useState } from "react";
 import styles from "./peopleContactCard.module.sass";
 import content from "./assets/content.svg";
